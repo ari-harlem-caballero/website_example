@@ -27,5 +27,5 @@ JS:
 CSS:
  - colors: red, yellow, green
  - font:
- - art: characters (fam, skip, warren, frye), food, store items (shirt, cheer skirt, mugs/espresso cup, giftcard, CDs, socks, apron, plant pots, xmas stocking/ornament/dreidel), shopping cart, newspaper clipping
+ - art: characters (fam, skip, warren, frye), food, store items (shirt, cheer skirt, mugs/espresso cup, giftcard, CDs, socks, apron, plant pots, xmas stocking/ornament/dreidel), shopping cart,  newspaper clipping
  - 
